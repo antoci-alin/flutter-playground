@@ -1,6 +1,6 @@
 [submodule "WordPair_Generator"]
-	path = WordPair_Generator
-	url = https://github.com/antoci-alin/WordPair_Generator.git
+	path = wordpair-generator
+	url = https://github.com/antoci-alin/wordpair-generator.git
 [submodule "flutter-nested-navigation"]
 	path = flutter-nested-navigation
 	url = https://github.com/antoci-alin/flutter-nested-navigation.git
