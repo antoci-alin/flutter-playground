@@ -1,4 +1,4 @@
-[submodule "WordPair_Generator"]
+[submodule "wordpair-generator"]
 	path = wordpair-generator
 	url = https://github.com/antoci-alin/wordpair-generator.git
 [submodule "flutter-nested-navigation"]
